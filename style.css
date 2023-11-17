@@ -19,3 +19,16 @@ body {
   display: flex;
   justify-content: space-between;
 }
+
+.menu {
+  background: #E8EFF9;
+  box-sizing: border-box;
+  height: 100vh;
+  padding: 64px 120px;
+}
+
+.menu__top {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 64px;
+}
